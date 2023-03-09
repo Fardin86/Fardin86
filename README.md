@@ -1,4 +1,4 @@
-<img align="center"  alt="Coding" width="700" src="https://codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
+<img align="center"  alt="Coding" width="800" src="https://codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 <h1 align="center">Hi 👋, I'm Fardin Hosen</h1>
 <h3 align="center">I am a front-end developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
